@@ -1,0 +1,6 @@
+{
+  "name": "Cohorts AI: Customer Intelligence Platform",
+  "description": "Interactive customer analytics platform featuring K-Means clustering, dataset profiling, elbow method optimization, and automated high-performance target segments strategy insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
